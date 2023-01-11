@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "autosadmin-8d348": {
+      "hosting": {
+        "AngularfirebaseStudentApp": [
+          "autosadmin-8d348"
+        ]
+      }
+    }
+  }
+}
